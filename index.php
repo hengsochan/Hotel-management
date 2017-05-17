@@ -18,7 +18,7 @@
 			<a href=accommodation.php>Accomodation</a>	|
 			<a href=tariff.php>Tariff & Policies</a>	|
 			<a href=restaurant.php>Restaurant</a>	|
-			<a href=bancon.php>Banquet & Conforance</a>	|
+			<a href=bancon.php>Banquet & Conferance</a>	|
 			<a href=aboutus.php>About us</a>  |
 			<a href=login.php>Login</a>  |
 			<a href=feedback.php>feedback</a>
