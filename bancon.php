@@ -29,8 +29,6 @@
 	and marriage parties are arranged in our pool garden </td>
 	<td>&nbsp;</td>
 </tr>
-</table>
-<table>
 <tr>
 	<td><a href=b3.php target=_blank><img src="image/meeting2.jpg" width=125 height=150></a></td>
 	<td>Our proffessional & exprienced staff shell be always available to assist you to the last moment in helping
